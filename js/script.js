@@ -1,9 +1,4 @@
-$(window).on("load", function () {
-
-  // Preload
-  $("#preload").fadeOut(500);
-
-});
+ 
 
 jQuery(document).ready(function () {
 
